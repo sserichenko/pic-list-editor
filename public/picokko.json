@@ -1,0 +1,4979 @@
+{
+    "PickList": {
+      "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "parsererror": {
+        "-on": "1.0",
+        "h3": [
+          "This page contains the following errors:",
+          {
+            "#item": {
+              "div": {
+                "-version": "1.0",
+                "#text": "error on line 6337 at column 17: XML declaration allowed only at the start of the document\n"
+              }
+            }
+          },
+          "Below is a rendering of the page up to the first error."
+        ]
+      },
+      "Parameters": {
+        "PickListSize": "20",
+        "DefaultLanguage": "0422",
+        "Languages": "0409,0419,0422",
+        "Resolution": "800,1024",
+        "Group": {
+          "-self-closing": true
+        },
+        "NumberOfPickListItems": "-1"
+      },
+      "Categories": {
+        "Category": [
+          {
+            "id": "10",
+            "IsVisible": true,
+            "IsQuickPickItem": false,
+            "Alphabetic": {
+              "-self-closing": true
+            },
+            "Pictures": {
+              "-self-closing": true
+            },
+            "IsTaxable": false,
+            "IsCustomizable": false,
+            "Min": "0",
+            "Max": "0",
+            "Sounds": {
+              "-self-closing": true
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Заморожені страви",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Заморожені страви",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Заморожені страви",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "11",
+            "IsVisible": true,
+            "IsQuickPickItem": false,
+            "Alphabetic": {
+              "-self-closing": true
+            },
+            "Pictures": {
+              "-self-closing": true
+            },
+            "IsTaxable": false,
+            "IsCustomizable": false,
+            "Min": "0",
+            "Max": "0",
+            "Sounds": {
+              "-self-closing": true
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Напої кафе",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Напої кафе",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Напої кафе",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "12",
+            "IsVisible": true,
+            "IsQuickPickItem": false,
+            "Alphabetic": {
+              "-self-closing": true
+            },
+            "Pictures": {
+              "-self-closing": true
+            },
+            "IsTaxable": false,
+            "IsCustomizable": false,
+            "Min": "0",
+            "Max": "0",
+            "Sounds": {
+              "-self-closing": true
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Хд і бургери",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Хд і бургери",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Хд і бургери",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "13",
+            "IsVisible": true,
+            "IsQuickPickItem": false,
+            "Alphabetic": {
+              "-self-closing": true
+            },
+            "Pictures": {
+              "-self-closing": true
+            },
+            "IsTaxable": false,
+            "IsCustomizable": false,
+            "Min": "0",
+            "Max": "0",
+            "Sounds": {
+              "-self-closing": true
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Азійські страви",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Азійські страви",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Азійські страви",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "14",
+            "IsVisible": true,
+            "IsQuickPickItem": false,
+            "Alphabetic": {
+              "-self-closing": true
+            },
+            "Pictures": {
+              "-self-closing": true
+            },
+            "IsTaxable": false,
+            "IsCustomizable": false,
+            "Min": "0",
+            "Max": "0",
+            "Sounds": {
+              "-self-closing": true
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Випічка і десерти",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Випічка і десерти",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Випічка і десерти",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "15",
+            "IsVisible": true,
+            "IsQuickPickItem": false,
+            "Alphabetic": {
+              "-self-closing": true
+            },
+            "Pictures": {
+              "-self-closing": true
+            },
+            "IsTaxable": false,
+            "IsCustomizable": false,
+            "Min": "0",
+            "Max": "0",
+            "Sounds": {
+              "-self-closing": true
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Інші страви кафе",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Інші страви кафе",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Інші страви кафе",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "1",
+            "IsVisible": true,
+            "IsQuickPickItem": false,
+            "Alphabetic": {
+              "-self-closing": true
+            },
+            "Pictures": {
+              "-self-closing": true
+            },
+            "IsTaxable": false,
+            "IsCustomizable": false,
+            "Min": "0",
+            "Max": "0",
+            "Sounds": {
+              "-self-closing": true
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Selfservice",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Selfservice",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Selfservice",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": "1",
+                  "Categories": {
+                    "-self-closing": true
+                  },
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "Items": {
+        "Item": [
+          {
+            "UPC": "125215",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Азійська локшина з качкою та манго",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Азійська локшина з качкою та манго",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Азійська локшина з качкою та манго",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "109444",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Азійська локшина з ялович та овочами",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Азійська локшина з ялович та овочами",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Азійська локшина з ялович та овочами",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "59868",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Американо",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Американо",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Американо",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "111975",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Американо XL",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Американо XL",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Американо XL",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "111976",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Американо XL з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Американо XL з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Американо XL з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "59867",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Американо з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Американо з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Американо з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "120806",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Американо з молоком холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Американо з молоком холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Американо з молоком холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "105547",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Американо холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Американо холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Американо холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "106169",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Багет Французький",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Багет Французький",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Багет Французький",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "113401",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Баоцзи з куркою BBQ",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Баоцзи з куркою BBQ",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Баоцзи з куркою BBQ",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "113402",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Баоцзи зі свининою BBQ",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Баоцзи зі свининою BBQ",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Баоцзи зі свининою BBQ",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "13",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "125986",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Біфштекс Абердин, Шок Фриз 0,75кг",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Біфштекс Абердин, Шок Фриз 0,75кг",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Біфштекс Абердин, Шок Фриз 0,75кг",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "120614",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Булочка для Хот-дога 6шт",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Булочка для Хот-дога 6шт",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Булочка для Хот-дога 6шт",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "108234",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Випічка коса з кленовим сиропом",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Випічка коса з кленовим сиропом",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Випічка коса з кленовим сиропом",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126774",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Гранола з шокол і банан(з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Гранола з шокол і банан(з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Гранола з шокол і банан(з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126777",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Гранола з шоколадом і бананом",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Гранола з шоколадом і бананом",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Гранола з шоколадом і бананом",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126778",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Гранола мигдаль/фундук",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Гранола мигдаль/фундук",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Гранола мигдаль/фундук",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126775",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Гранола мигдаль/фундук (з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Гранола мигдаль/фундук (з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Гранола мигдаль/фундук (з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126570",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Джем Полуниця",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Джем Полуниця",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Джем Полуниця",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "120140",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Донат з смаком Шоколаду",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Донат з смаком Шоколаду",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Донат з смаком Шоколаду",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "120139",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Донат зі смаком Полуниці",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Донат зі смаком Полуниці",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Донат зі смаком Полуниці",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "59865",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Еспресо",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Еспресо",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Еспресо",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "61978",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Еспресо з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Еспресо з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Еспресо з молоком",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "111973",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Еспресо макіато",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Еспресо макіато",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Еспресо макіато",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "111974",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Еспресо подвійне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Еспресо подвійне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Еспресо подвійне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "59864",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Какао",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Какао",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Какао",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "64175",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Какао холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Какао холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Какао холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "127153",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Кальцоне з куркою та сиром",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Кальцоне з куркою та сиром",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Кальцоне з куркою та сиром",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "60789",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Капучино",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Капучино",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Капучино",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "60975",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Капучино XL",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Капучино XL",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Капучино XL",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "64173",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Капучино холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Капучино холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Капучино холодне",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "11",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126743",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Картопля  з сосискою та огірками",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Картопля  з сосискою та огірками",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Картопля  з сосискою та огірками",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126754",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Картопля з сосискою БаварXXL та огірками",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Картопля з сосискою БаварXXL та огірками",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Картопля з сосискою БаварXXL та огірками",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "102853",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Картопля по-селянськи",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Картопля по-селянськи",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Картопля по-селянськи",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126776",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Каша вівсяна чіа/фрукти",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Каша вівсяна чіа/фрукти",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Каша вівсяна чіа/фрукти",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126773",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Каша вівсяна чіа/фрукти (з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Каша вівсяна чіа/фрукти (з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Каша вівсяна чіа/фрукти (з молоком)",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "120567",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Ковбаса МЕГА Салямі Фінська 4шт",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Ковбаса МЕГА Салямі Фінська 4шт",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Ковбаса МЕГА Салямі Фінська 4шт",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "127316",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Котлети з лісов грибами та трюф у вершк",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Котлети з лісов грибами та трюф у вершк",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Котлети з лісов грибами та трюф у вершк",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "127315",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Котлети з моцарелою паніровані в Панко",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Котлети з моцарелою паніровані в Панко",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Котлети з моцарелою паніровані в Панко",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "10",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126548",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Крафтовий пиріг із бринзою та зеленню",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Крафтовий пиріг із бринзою та зеленню",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Крафтовий пиріг із бринзою та зеленню",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "126545",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Крафтовий пиріг із вишнею",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Крафтовий пиріг із вишнею",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Крафтовий пиріг із вишнею",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "64167",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Круасан Французький",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Круасан Французький",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Круасан Французький",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "14",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "UPC": "101585",
+            "Pictures": {
+              "Picture": [
+                {
+                  "id": "1",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "800",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                },
+                {
+                  "id": "1",
+                  "-Resolution": "1024",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Department": "001",
+            "IsQuantity": false,
+            "IsQuickPickItem": false,
+            "IsPopular": false,
+            "IsVisible": true,
+            "DeleteThisItem": false,
+            "IsZeroWeightItem": false,
+            "IsTaxable": false,
+            "IsExtra": false,
+            "Sounds": {
+              "Sound": [
+                {
+                  "id": "1",
+                  "-self-closing": true
+                },
+                {
+                  "id": "2",
+                  "-self-closing": true
+                }
+              ]
+            },
+            "Languages": {
+              "Language": [
+                {
+                  "-LCID": "0419",
+                  "Description": "Курячий бульйон",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0422",
+                  "Description": "Курячий бульйон",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                },
+                {
+                  "-LCID": "0409",
+                  "Description": "Курячий бульйон",
+                  "ScreenTitle": {
+                    "-self-closing": true
+                  },
+                  "Instructions": {
+                    "-self-closing": true
+                  },
+                  "InCategories": {
+                    "-self-closing": true
+                  },
+                  "Categories": "15",
+                  "SubCategories": {
+                    "-self-closing": true
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
